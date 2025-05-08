@@ -35,7 +35,7 @@ This is my **exciting game website** built using **HTML** and **CSS**.
 ## 🔗 Live Demo
 
 You can see the project live here:  
-👉 [Click to View Demo]http://127.0.0.1:5500/index.html
+👉 [Click to View Demo](http://127.0.0.1:5500/index.html)
 
 ---
 
