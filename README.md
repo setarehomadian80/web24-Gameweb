@@ -35,7 +35,7 @@ This is my **exciting game website** built using **HTML** and **CSS**.
 ## 🔗 Live Demo
 
 You can see the project live here:  
-👉 [Click to View Demo](https://github.com/setarehomadian80/web24-Gameweb.git)
+👉 [Click to View Demo](https://setarehomadian80.github.io/web24-Gameweb/)
 
 ---
 
