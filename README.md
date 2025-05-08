@@ -11,7 +11,7 @@ This is my **exciting game website** built using **HTML** and **CSS**.
   <img src="assets/img/Screenshot 2025-05-08 232632.png" alt="Project Screenshot" width="700"/>
 </div>
 <div align="center">
-  <img src="assets/img/Screenshot 2025-05-08 232632.png" alt="Project Screenshot" width="700"/>
+  <img src="assets/img/Screenshot 2025-05-08 232657.png" alt="Project Screenshot" width="700"/>
 </div>
 
 ---
